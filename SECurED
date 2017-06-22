@@ -7,8 +7,3 @@ public class MySecurityManager extends SecurityManager {
         }
     }   
 }
-public class Test {
-	public static void main(String args[]) {
-		FileReader f = new FileReader("/etc/passwd");
-    }
-}
